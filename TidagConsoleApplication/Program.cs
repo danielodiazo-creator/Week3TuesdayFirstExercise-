@@ -11,6 +11,7 @@ namespace TidagConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hola, que tal??");
+            Console.WriteLine("Hola, que tal 2 ");
         }
     }
 }
