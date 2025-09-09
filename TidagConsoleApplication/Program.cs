@@ -13,6 +13,7 @@ namespace TidagConsoleApplication
             Console.WriteLine("Hola, que tal??");
             Console.WriteLine("Hola, que tal 2 ");
             Console.WriteLine("Hola, que tal 3 ");
+            Console.WriteLine("Hola, que tal 4 ");
         }
     }
 }
